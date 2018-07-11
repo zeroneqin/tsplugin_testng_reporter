@@ -1,0 +1,6 @@
+com\qinjun\autotest\tsplugin\reporter\HtmlReporter.class
+com\qinjun\autotest\tsplugin\reporter\Reporter.class
+com\qinjun\autotest\tsplugin\util\HtmlUtil.class
+com\qinjun\autotest\tsplugin\reporter\EmailReporter.class
+com\qinjun\autotest\tsplugin\util\EmailUtil.class
+com\qinjun\autotest\tsplugin\util\XmlUtil.class

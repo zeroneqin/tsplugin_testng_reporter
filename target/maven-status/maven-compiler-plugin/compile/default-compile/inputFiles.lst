@@ -1,0 +1,15 @@
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\reporter\Reporter.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\ResultClass.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\ResultException.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\util\XmlUtil.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\reporter\EmailReporter.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\reporter\HtmlReporter.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\util\EmailUtil.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\Result.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\ResultMethod.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\util\HtmlUtil.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\EnumTestStatus.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\util\CommonUtil.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\ResultTest.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\EnumTestType.java
+D:\git\tsplugin_testng_reporter\src\main\java\com\qinjun\autotest\tsplugin\bean\result\ResultSuite.java

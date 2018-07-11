@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qinjun.autotest.AppTest" duration-ms="24" started-at="2018-07-11T16:09:23Z" finished-at="2018-07-11T16:09:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24" started-at="2018-07-11T16:09:23Z" finished-at="2018-07-11T16:09:23Z">
+      <class name="com.qinjun.autotest.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:com.qinjun.autotest.AppTest@1cd072a9]" name="shouldAnswerWithTrue" duration-ms="11" started-at="2018-07-12T00:09:23Z" finished-at="2018-07-12T00:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.qinjun.autotest.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qinjun.autotest.AppTest -->
+</testng-results>

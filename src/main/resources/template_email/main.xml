@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type" content="text/html; charset=UTF-8" />
+    </head>
+
+    <style>
+        * {
+        margin: 0;
+        padding:0;
+        }
+
+        body {
+        font-family:"Times New Roman",
+        Georgia, Serif;
+        font-size: 20px;
+        fornt-weight: normal;
+        letter-spacing: normal;
+        backgroud: #fff;
+        }
+
+        #content {
+        backgroud-color: #fff;
+        width: 80%;
+        padding: 40px;
+        margin: 0 auto;
+        border-left: 30px solid #1D81B6;
+        border-right: 10px solid #ddd;
+        }
+
+        #content h1 {
+        color: #1D81B6;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 56px;
+        }
+
+        table.table1 {
+        width: 80%;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 1.4em;
+        font-style: normal;
+        }
+
+        .table1 thead th {
+        background-color: #9DD929;
+        color: #fff;
+        padding: 15px;
+        }
+
+        .table1 tbody th {
+        background-color: #9DD929;
+        color: #fff;
+        padding: 10px;
+        }
+
+        .table1 tbody td {
+        padding: 10px;
+        text-align: center;
+        background-color: #DEF3CA;
+        color: #666;
+        }
+
+        .table1 tfoot td {
+        color: #9CD009;
+        font-size: 32px;
+        text-align: center;
+        padding: 10px 0px;
+        }
+
+
+        .table1 tfoot th {
+        color: red;
+        }
+
+        .table1 .fail{
+        color:red;
+        }
+
+        .footer {
+        font-weight:bold;
+        font-size:16px;
+        font-style:normal;
+        letter-spacing: 3px;
+        color: #888;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        }
+
+        .footer a {
+        color: #1D81B6;
+        text-decoration: none;
+        float: left;
+        }
+    </style>
+    <body>
+    </body>
+</html>
